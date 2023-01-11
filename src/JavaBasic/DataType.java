@@ -1,6 +1,7 @@
 package JavaBasic;
 public class DataType{
 public static void main(String[] args) {
+	System.out.println("Data type is good for coding");
 		System.out.println("Data Type ");
 		//Primitive Data type: integer,Double,char,boolean these are primitive data type
 		//Integer: we can store only integer values
