@@ -6,7 +6,8 @@ public class MethodOverloading {
 		//We can overload main method also
 		//we can not create method inside method
 		//duplicate method-->same methods name same no of arguments and same data type are not allowed
-		//Method Overloading--> when the method name is same with different arguments or input parameters and different data type with in same class it is called method overloading
+		//Method Overloading--> when the method name is same with different arguments or input parameters and 
+		//different data type with in same class it is called method overloading
 		
 		MethodOverloading obj = new MethodOverloading();
 		obj.sum();

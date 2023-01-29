@@ -20,6 +20,7 @@ public class GlobalVariable {
 		int j=30;
 		int k=i+j;
 		System.out.println(k);
+		System.out.println("Global variable i am accessing in method "+name);
 	}
 
 }
